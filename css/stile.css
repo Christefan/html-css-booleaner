@@ -25,3 +25,20 @@ a{
     font-weight: bold;
 }
 
+.Autore-e-data{
+    color: gray;
+    font-weight: bold;
+}
+
+
+.paragr1{
+    margin: 20px 0;
+}
+
+.segnogiallo{
+    background-color: yellow;
+}
+
+.paragr.ul {
+    margin-left: 15px;
+}

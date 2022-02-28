@@ -42,3 +42,20 @@ a{
 .paragr.ul {
     margin-left: 15px;
 }
+
+th{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.riga1{
+    width: 25%;
+}
+
+.riga2{
+    width: 50%;
+}
+
+.rigablu{
+    background-color: #b1e5f2;
+}
